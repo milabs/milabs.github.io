@@ -10,4 +10,4 @@ Being a kernel developer I’m following Linux kernel development (since v2.4.28
 
 ### Support or Contact
 
-Feel free to contact me using [email](mailto:matvejchikov@gmail.com) (PGP Key 0x0A4DBB06).
+Feel free to contact me using [email](mailto:matvejchikov@gmail.com) (PGP Key 0x424D4F89).
